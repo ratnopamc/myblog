@@ -2,18 +2,10 @@
 layout: post
 title:  "Validating Kubernetes Clusters With Sonobuoy"
 date:   2021-05-23 01:16:12 -0400
-categories: kubernetes conformance
+categories: jekyll update
 ---
 
-Jekyll offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+# Welcome to Conformance Testing With SOnobuoy
 
 ## Create a Kind cluster with multiple nodes
 
